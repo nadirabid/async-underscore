@@ -6,7 +6,7 @@
 </p>
 
 <h1>Example Usage</h1>
-<p>
+<code>
 	var dfd = $.Deferred();
   
 	_(dfd).map(function(v) {
@@ -15,4 +15,4 @@
 
 	console.log("Now resolving deferred collection.");
 	dfd.resolve([1,2,3,4]);
-</p>
+</code>
