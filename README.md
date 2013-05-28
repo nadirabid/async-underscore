@@ -28,7 +28,10 @@
 
 <h3>Road Map</h3>
 <p>
-	Lots of thing I'd like to do. I think Underscore.js is becoming the practical JS developer utility that it should have been long time ago. The thing its weak on is in the department of Deferreds which jQuery has done well in.
+	Lots of things I'd like to do. 
+</p>
+<p>
+	I think Underscore.js is becoming the practical JS developer utility that it should have been long time ago. The thing its weak on is in the department of Deferreds which jQuery has done well in.
 </p>
 
 <ul>
